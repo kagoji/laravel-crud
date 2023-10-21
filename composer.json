@@ -1,7 +1,14 @@
 {
     "name": "kagoji/crud",
     "description": "Laravel CRUD using Repository pattern.",
-    "url": "packages/kagoji/crud",
+    "keywords": [
+        "laravel",
+        "crud",
+        "crud Repository pattern",
+        "crud generator",
+        "kagoji crud",
+        "laravel crud generator"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -15,5 +22,8 @@
             "Kagoji\\Crud\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.4",
+        "laravel/framework": "^8.0"
+    }
 }
