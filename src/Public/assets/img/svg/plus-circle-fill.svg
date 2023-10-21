@@ -1,0 +1,11 @@
+<svg id="plus-circle-fill" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #acacac;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Path_505" data-name="Path 505" class="cls-1" d="M24,12A12,12,0,1,1,12,0,12,12,0,0,1,24,12ZM12.751,6a.751.751,0,0,0-1.5,0v5.251H6a.751.751,0,0,0,0,1.5h5.251V18a.751.751,0,0,0,1.5,0V12.751H18a.751.751,0,0,0,0-1.5H12.751Z"/>
+</svg>

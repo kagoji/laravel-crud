@@ -1,0 +1,19 @@
+{
+    "name": "kagoji/crud",
+    "description": "Laravel CRUD using Repository pattern.",
+    "url": "packages/kagoji/crud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kagoji Faysal",
+            "email": "kagoji07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Kagoji\\Crud\\": "src/"
+        }
+    },
+    "require": {}
+}

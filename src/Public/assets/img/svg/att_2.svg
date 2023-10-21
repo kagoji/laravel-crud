@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="76" viewBox="0 0 76 76">
+  <defs>
+    <filter id="Ellipse_108" x="0" y="0" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_406" data-name="Rectangle 406" width="14.69" height="17.602" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2830" data-name="Group 2830" transform="translate(-5279 -2358)">
+    <g transform="matrix(1, 0, 0, 1, 5279, 2358)" filter="url(#Ellipse_108)">
+      <circle id="Ellipse_108-2" data-name="Ellipse 108" cx="29" cy="29" r="29" transform="translate(9 6)" fill="#9e92f1"/>
+    </g>
+    <g id="Group_2821" data-name="Group 2821" transform="translate(5295.577 2376.269)">
+      <text id="Quatation" transform="translate(0.423 27.707)" fill="#fff" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Quatation</tspan></text>
+      <g id="Group_2804" data-name="Group 2804" transform="translate(15.522)">
+        <g id="Group_2802" data-name="Group 2802" transform="translate(0)">
+          <g id="Component_34_20" data-name="Component 34 – 20">
+            <g id="Group_382" data-name="Group 382" clip-path="url(#clip-path)">
+              <path id="Path_513" data-name="Path 513" d="M8.306.015c0,.7,0,1.358,0,2.015a1.559,1.559,0,0,0,1.7,1.613c.691,0,1.381,0,2.1,0V10.4A4.2,4.2,0,0,0,7.843,11.97a3.762,3.762,0,0,0-.2,4.4c-.133.01-.243.025-.353.025q-3.074,0-6.149,0C.353,16.394,0,16.057,0,15.3Q0,8.189,0,1.074C0,.345.36,0,1.12,0Q4.534,0,7.948,0c.1,0,.208.008.358.014M6.027,6.072q1.835,0,3.669,0c.25,0,.525,0,.514-.32-.01-.292-.271-.29-.507-.29q-3.63,0-7.259,0c-.25,0-.525,0-.514.32.01.292.271.29.507.29q1.795,0,3.59,0m.045,1.821q-1.815,0-3.63,0c-.251,0-.524,0-.512.321.011.292.273.288.508.288q3.63,0,7.259,0c.251,0,.524,0,.512-.322-.011-.292-.273-.289-.508-.288q-1.815,0-3.63,0M4.141,10.93c.6,0,1.2,0,1.793,0,.237,0,.472-.053.43-.31a.527.527,0,0,0-.406-.286c-1.208-.023-2.417-.012-3.626-.014-.229,0-.44.081-.39.308a.538.538,0,0,0,.407.287c.6.033,1.194.014,1.792.014" transform="translate(0 0.001)" fill="#fff"/>
+              <path id="Path_515" data-name="Path 515" d="M112.036,7.092l2.613,2.483c-.6,0-1.218.026-1.83-.009a.837.837,0,0,1-.774-.753c-.032-.573-.008-1.149-.008-1.721" transform="translate(-103.079 -6.554)" fill="#fff"/>
+              <path id="Path_2814" data-name="Path 2814" d="M50.007,65.685v5.986H44.738s-.026-4.576,0-4.613,3.28-2.4,3.28-2.4Z" transform="translate(-37.897 -55.275)" fill="#fff"/>
+              <rect id="Rectangle_422" data-name="Rectangle 422" width="8.71" height="6.222" transform="translate(1.746 5.302)" fill="#fff"/>
+              <line id="Line_63" data-name="Line 63" x2="8.035" transform="translate(1.746 8.198)" fill="none" stroke="#9e92f1" stroke-linecap="round" stroke-width="1"/>
+              <line id="Line_66" data-name="Line 66" x2="8.035" transform="translate(1.746 6.331)" fill="none" stroke="#9e92f1" stroke-linecap="round" stroke-width="1"/>
+              <line id="Line_64" data-name="Line 64" x2="5.753" transform="translate(1.746 10.064)" fill="none" stroke="#9e92f1" stroke-linecap="round" stroke-width="1"/>
+              <line id="Line_65" data-name="Line 65" x2="8.035" transform="translate(1.746 11.931)" fill="none" stroke="#9e92f1" stroke-linecap="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

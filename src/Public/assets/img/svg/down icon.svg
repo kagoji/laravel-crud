@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.885" height="10.357" viewBox="0 0 17.885 10.357">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b7b7b7;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="down_icon" data-name="down icon" class="cls-1" d="M0,0,8.235,8.235,0,16.471" transform="translate(17.178 0.707) rotate(90)"/>
+</svg>

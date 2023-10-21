@@ -1,0 +1,25 @@
+<svg id="date-outline-badged" xmlns="http://www.w3.org/2000/svg" width="30.871" height="29" viewBox="0 0 30.871 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484848;
+      }
+    </style>
+  </defs>
+  <path id="Path_483" data-name="Path 483" class="cls-1" d="M30,13.22V30H3.867V8h2.8V6H3.634A1.729,1.729,0,0,0,2,7.81V30.19A1.729,1.729,0,0,0,3.634,32h26.6a1.729,1.729,0,0,0,1.634-1.81V12.34A6.73,6.73,0,0,1,30,13.22Z" transform="translate(-2 -3)"/>
+  <path id="Path_484" data-name="Path 484" class="cls-1" d="M8,14h2v2H8Z" transform="translate(-2.412 -1.897)"/>
+  <path id="Path_485" data-name="Path 485" class="cls-1" d="M14,14h2v2H14Z" transform="translate(-2.824 -1.897)"/>
+  <path id="Path_486" data-name="Path 486" class="cls-1" d="M20,14h2v2H20Z" transform="translate(-3.236 -1.897)"/>
+  <path id="Path_487" data-name="Path 487" class="cls-1" d="M26,14h2v2H26Z" transform="translate(-3.648 -1.897)"/>
+  <path id="Path_488" data-name="Path 488" class="cls-1" d="M8,19h2v2H8Z" transform="translate(-2.412 -2.241)"/>
+  <path id="Path_489" data-name="Path 489" class="cls-1" d="M14,19h2v2H14Z" transform="translate(-2.824 -2.241)"/>
+  <path id="Path_490" data-name="Path 490" class="cls-1" d="M20,19h2v2H20Z" transform="translate(-3.236 -2.241)"/>
+  <path id="Path_491" data-name="Path 491" class="cls-1" d="M26,19h2v2H26Z" transform="translate(-3.648 -2.241)"/>
+  <path id="Path_492" data-name="Path 492" class="cls-1" d="M8,24h2v2H8Z" transform="translate(-2.412 -2.586)"/>
+  <path id="Path_493" data-name="Path 493" class="cls-1" d="M14,24h2v2H14Z" transform="translate(-2.824 -2.586)"/>
+  <path id="Path_494" data-name="Path 494" class="cls-1" d="M20,24h2v2H20Z" transform="translate(-3.236 -2.586)"/>
+  <path id="Path_495" data-name="Path 495" class="cls-1" d="M26,24h2v2H26Z" transform="translate(-3.648 -2.586)"/>
+  <path id="Path_496" data-name="Path 496" class="cls-1" d="M10,10a1,1,0,0,0,1-1V3A1,1,0,0,0,9,3V9A1,1,0,0,0,10,10Z" transform="translate(-2.481 -1)"/>
+  <path id="Path_497" data-name="Path 497" class="cls-1" d="M22.5,6H13V8h9.78a7.49,7.49,0,0,1-.28-2Z" transform="translate(-3.008 -1.345)"/>
+  <path id="Path_498" data-name="Path 498" class="cls-1" d="M35,6a5,5,0,1,1-5-5A5,5,0,0,1,35,6Z" transform="translate(-4.129 -1)"/>
+</svg>

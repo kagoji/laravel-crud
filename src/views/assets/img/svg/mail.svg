@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="15.714" viewBox="0 0 20 15.714">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484848;
+      }
+    </style>
+  </defs>
+  <path id="Icon_ionic-md-mail" data-name="Icon ionic-md-mail" class="cls-1" d="M20.345,5.625H4.155a1.91,1.91,0,0,0-1.9,1.9v11.9a1.91,1.91,0,0,0,1.9,1.9h16.19a1.91,1.91,0,0,0,1.9-1.9V7.53A1.91,1.91,0,0,0,20.345,5.625Zm-.238,4.048L12.25,14.911,4.393,9.673v-1.9l7.857,5.238,7.857-5.238Z" transform="translate(-2.25 -5.625)"/>
+</svg>
