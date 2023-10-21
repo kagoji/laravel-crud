@@ -37,14 +37,16 @@ class KagojiCrudServiceProvider extends ServiceProvider
 
         //Load views
         $this->loadRoutesFrom(__DIR__.'/routes/web.php');
-
+        
+        //Asset publish
         $this->publishes([
             __DIR__.'/public/assets' => public_path('kagoji/crud/assets'),
         ], 'kagoji-crud-public');
 
-
+        //resource views
         $this->loadViewsFrom(__DIR__.'/views','crud');
-    
+        
+        //migration load
         $this->loadMigrationsFrom(__DIR__.'/migrations');
 
     
